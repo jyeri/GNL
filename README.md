@@ -1,0 +1,2 @@
+# GNL
+42 project GET_NEXT_LINE
